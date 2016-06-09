@@ -1,5 +1,5 @@
-SHA1_°Ù¶È°Ù¿Æ
-°²È«¹şÏ£Ëã·¨£¨Secure Hash Algorithm£©
-Ö÷ÒªÊÊÓÃÓÚÊı×ÖÇ©Ãû±ê×¼ £¨Digital Signature Standard DSS£©
-ÀïÃæ¶¨ÒåµÄÊı×ÖÇ©ÃûËã·¨
-£¨Digital Signature Algorithm DSA
+ï»¿SHA1_ç™¾åº¦ç™¾ç§‘
+å®‰å…¨å“ˆå¸Œç®—æ³•ï¼ˆSecure Hash Algorithmï¼‰
+ä¸»è¦é€‚ç”¨äºæ•°å­—ç­¾åæ ‡å‡† ï¼ˆDigital Signature Standard DSSï¼‰
+é‡Œé¢å®šä¹‰çš„æ•°å­—ç­¾åç®—æ³•
+ï¼ˆDigital Signature Algorithm DSA
