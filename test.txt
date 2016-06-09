@@ -1,5 +1,0 @@
-﻿SHA1_百度百科
-安全哈希算法（Secure Hash Algorithm）
-主要适用于数字签名标准 （Digital Signature Standard DSS）
-里面定义的数字签名算法
-（Digital Signature Algorithm DSA
